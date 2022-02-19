@@ -94,7 +94,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /notes/:title      
+      permalink: /notes-garden/notes/:title      
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
@@ -120,7 +120,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /posts/:title
+      permalink: /notes-garden/posts/:title
       content-type: post
   - scope:
       path: ""
