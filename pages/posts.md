@@ -1,5 +1,5 @@
 ---
 layout: Post
-permalink: /posts
+permalink: {{ site.baseurl }}/posts
 title: All Posts
 ---

@@ -1,4 +1,4 @@
 ---
 layout: Post
-permalink: /notes
+permalink: {{ site.baseurl }}/notes
 ---
